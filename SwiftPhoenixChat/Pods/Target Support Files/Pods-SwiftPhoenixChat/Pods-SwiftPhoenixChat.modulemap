@@ -1,0 +1,6 @@
+framework module Pods_SwiftPhoenixChat {
+  umbrella header "Pods-SwiftPhoenixChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
